@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="497" height="264">
 
-<-- 🔭 I’m currently working on Process Mining & Service Substitution as a Research Intern @ [EFREI Paris](https://www.efrei.fr/)
+- 🔭 I’m currently working on Process Mining & Service Substitution as a Research Intern @ [EFREI Paris](https://www.efrei.fr/)
 - 🌱 I’m currently learning Data Mining, Process mining, 
 - 👯 I’m looking to collaborate on IoT and Wireless sensors Networks, Edge computing, Blockchain & Smart contract, etc.
 
