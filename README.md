@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">A digital transformation engineer, a research enthusiast on iIoT (cloud/edge network), process mining and business intelligence, and blockchain technology, and finally, an amateur English teacher.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulwesomee&label=Profile%20views&color=0e75b6&style=flat" alt="paulwesomee" /> </p>
+
 - 🌱 I’m currently learning **Process mining, Federated Learning**
 
 - 📫 How to reach me **Yanwu.zhu@efrei.net**
@@ -16,3 +18,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Paulwesome"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Paulwesome" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulwesomee&show_icons=true&theme=radical&locale=en&layout=compact" alt="paulwesomee" /></p>
