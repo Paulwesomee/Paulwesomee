@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **Yanwu.zhu@efrei.net**
 
-- ⚡ Fun fact : **I make more money teaching English than being a dev.**
+- ⚡ Fun fact: **I make more money teaching English than being a dev.**
 
-<h3 align="left">Connect with me:</h3> < href="https://www.linkedin.com/in/yanwuzhu/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50" width="50" alt="Paulwesome" />
+<h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/yanwuzhu/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50" width="50" alt="Paulwesome" /></a></br></br>
 <p align="left">
 </p>
 
