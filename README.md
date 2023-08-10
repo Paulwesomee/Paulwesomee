@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact : **I make more money teaching English than being a dev.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <a href="https://www.linkedin.com/in/yanwuzhu/"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50" width="210" alt="Paulwesome" /></a>
 <p align="left">
 </p>
 
