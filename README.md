@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Yanwu.zhu@efrei.net**
 
-- ⚡ Fun fact **I make more money teaching English than being a dev.**
+- ⚡ Fun fact : **I make more money teaching English than being a dev.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
