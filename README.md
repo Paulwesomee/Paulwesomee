@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulwesomee&label=Profile%20views&color=0e75b6&style=flat" alt="paulwesomee" /> </p>
 
-- 🌱 I’m currently learning **Process mining, Federated Learning**
+- 🌱 I’m currently learning **Process mining, Federated Learning, and their application in iIoT, Business management, digital twins, and other interesting scenarios.**
 
 - 📫 How to reach me **Yanwu.zhu@efrei.net**
 
